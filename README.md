@@ -1,4 +1,4 @@
-##Deep Learning
+## Deep Learning
 The data is preprocessed and split into training and testing in order to be ready for modeling. In our first trial we are going to use the basic framework same as the one inside of the module.
 * **Input Layer**: we set up the input features equal to the number of variables in our feature Data Frame
 *	**Hidden Layers**: we had 2 hidden layers and each of them has few neurons. For the hidden layer, we use “relu” for the activation function to identify nonlinear characteristics from the input value.
